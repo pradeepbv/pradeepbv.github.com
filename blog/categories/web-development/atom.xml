@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Web Development | tail -f /var/dev/log]]></title>
+  <title><![CDATA[Category: Web Development | tail -f /var/log/dev]]></title>
   <link href="http://pradeepbv.github.com/blog/categories/web-development/atom.xml" rel="self"/>
   <link href="http://pradeepbv.github.com/"/>
-  <updated>2012-09-09T18:17:58+05:30</updated>
+  <updated>2012-09-09T18:27:16+05:30</updated>
   <id>http://pradeepbv.github.com/</id>
   <author>
     <name><![CDATA[Pradeep B V]]></name>
