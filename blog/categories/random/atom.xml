@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[BuildLog]]></title>
-  <link href="http://pradeepbv.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Random | BuildLog]]></title>
+  <link href="http://pradeepbv.github.com/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://pradeepbv.github.com/"/>
   <updated>2012-09-09T15:21:15+05:30</updated>
   <id>http://pradeepbv.github.com/</id>
