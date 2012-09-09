@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://pradeepbv.github.com
-title: BuildLog
-subtitle: Scratchpad of a developer under construction
+title: tail -f /var/dev/log
+subtitle: Log of a developer under construction
 author: Pradeep B V
 simple_search: http://google.com/search
 description:
@@ -65,10 +65,10 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: pradeepbv
-twitter_tweet_count: 4
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
-twitter_show_follower_count: true
+twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
