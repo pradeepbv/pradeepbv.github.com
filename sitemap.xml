@@ -1,23 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://pradeepbv.github.com/blog/2012/09/09/testing-1-2-3-4/</loc>
+        <loc>http://developerunderconstruction.com/blog/2012/09/09/testing-1-2-3-4/</loc>
         <lastmod>2012-09-09T15:21:05+05:30</lastmod>
     </url>
     <url>
-        <loc>http://pradeepbv.github.com/blog/2012/09/09/pretogrammer/</loc>
+        <loc>http://developerunderconstruction.com/blog/2012/09/09/pretogrammer/</loc>
         <lastmod>2012-09-09T16:00:57+05:30</lastmod>
     </url>
     <url>
-        <loc>http://pradeepbv.github.com/blog/2012/09/09/attempting-to-learn-javascript/</loc>
+        <loc>
+            http://developerunderconstruction.com/blog/2012/09/09/attempting-to-learn-javascript/
+        </loc>
         <lastmod>2012-09-09T18:17:48+05:30</lastmod>
     </url>
     <url>
-        <loc>http://pradeepbv.github.com/blog/archives/</loc>
+        <loc>http://developerunderconstruction.com/blog/archives/</loc>
         <lastmod>2012-09-09T18:17:48+05:30</lastmod>
     </url>
     <url>
-        <loc>http://pradeepbv.github.com/</loc>
+        <loc>http://developerunderconstruction.com/</loc>
         <lastmod>2012-09-09T18:17:48+05:30</lastmod>
     </url>
 </urlset>
