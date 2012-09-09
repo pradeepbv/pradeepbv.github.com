@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Random | BuildLog]]></title>
-  <link href="http://pradeepbv.github.com/blog/categories/random/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Nomenclature | BuildLog]]></title>
+  <link href="http://pradeepbv.github.com/blog/categories/nomenclature/atom.xml" rel="self"/>
   <link href="http://pradeepbv.github.com/"/>
   <updated>2012-09-09T16:01:08+05:30</updated>
   <id>http://pradeepbv.github.com/</id>
@@ -19,21 +19,6 @@
     <updated>2012-09-09T15:57:00+05:30</updated>
     <id>http://pradeepbv.github.com/blog/2012/09/09/pretogrammer</id>
     <content type="html"><![CDATA[<p>A person who pretends to be a programmer.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Testing 1 2 3 4 ]]></title>
-    <link href="http://pradeepbv.github.com/blog/2012/09/09/testing-1-2-3-4/"/>
-    <updated>2012-09-09T09:33:00+05:30</updated>
-    <id>http://pradeepbv.github.com/blog/2012/09/09/testing-1-2-3-4</id>
-    <content type="html"><![CDATA[<p>Trying my hand at markdown.</p>
-
-<p>Testing 1 2 3 4</p>
-
-<h3>Hello world!</h3>
-
-<blockquote><p>Markdown seems fun :-)</p></blockquote>
 ]]></content>
   </entry>
   
