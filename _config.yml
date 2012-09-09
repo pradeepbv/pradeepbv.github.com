@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://pradeepbv.github.com
-title: tail -f /var/dev/log
+title: tail -f /var/log/dev
 subtitle: Log of a developer under construction
 author: Pradeep B V
 simple_search: http://google.com/search
