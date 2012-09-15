@@ -3,7 +3,7 @@ layout: post
 title: "Attempting to learn JavaScript"
 date: 2012-09-09 17:11
 comments: true
-categories: [Learning, JavaScript, Web Development]
+categories: [Getting Started, Learning, JavaScript, Web Development]
 ---
 I have been trying to learn JavaScript for quite sometime now. Started with [JavaScript Fundamentals][1] track on [Codecademy][2] but somehow I didn't make much progress. 
 
