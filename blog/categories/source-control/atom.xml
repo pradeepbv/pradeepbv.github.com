@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Source Control | tail -f /var/log/dev]]></title>
+  <link href="http://developerunderconstruction.com/blog/categories/source-control/atom.xml" rel="self"/>
+  <link href="http://developerunderconstruction.com/"/>
+  <updated>2012-09-15T10:41:48+05:30</updated>
+  <id>http://developerunderconstruction.com/</id>
+  <author>
+    <name><![CDATA[Pradeep B V]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Getting started with Git]]></title>
+    <link href="http://developerunderconstruction.com/blog/2012/09/15/getting-started-with-git/"/>
+    <updated>2012-09-15T10:22:00+05:30</updated>
+    <id>http://developerunderconstruction.com/blog/2012/09/15/getting-started-with-git</id>
+    <content type="html"><![CDATA[<p>Now that I learning how to become a developer I have come across a peculiar problem. Hoe to manage code? I mean when you try to write something and it doesn't do what you need it to do you end up writing variants of the same thing and call it test1, test2, testupdatedv1, trial3, trialwith3 etc. And soon you will be lost in a mess.</p>
+
+<p>One way to manage code is to use a source control system. <a href="http://git-scm.com/">Git</a> is one of the popular source control system used in projects large and small.</p>
+
+<p>I am attempting to learn <a href="http://git-scm.com/">Git</a>. There are couple of books that I have been recommended to me as good starting points.</p>
+
+<h3>Pro Git</h3>
+
+<p><a href="http://git-scm.com/book"><img src="http://git-scm.com/images/pro-git-118x157.jpg" alt="Pro Git" /></a></p>
+
+<h3>Pragmatic Version Control Using Git</h3>
+
+<p><a href="http://pragprog.com/book/tsgit/pragmatic-version-control-using-git"><img src="http://imagery.pragprog.com/products/109/tsgit_xlargecover.jpg" alt="Pragmatic Version Control Using Git" /></a></p>
+]]></content>
+  </entry>
+  
+</feed>
